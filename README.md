@@ -1,5 +1,7 @@
 
-```cd developer-docs-site/static/sdks/typescript/examples/```
+```
+cd developer-docs-site/static/sdks/typescript/examples/
+```
 
 simple_nft3.js : You can make an NFT collection, mint NFTs, and upgrade its data.     
 
